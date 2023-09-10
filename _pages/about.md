@@ -1,20 +1,48 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am Yu Yao, a senior Physics undergraduate at University of Science and Technology of China, fortunately advised by Profs. Changgan Zeng and Hui Zhang. 
+<!--
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).\
+-->
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Resaerch Insterests
 ======
+I have a profound interest in the field of condensed matter physics and AL4Science (Artificial Intelligence for Science). My research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of materials while also creating dependable experimental tools to enhance our understanding of physical theories, simulations, and experiments. With a strong foundation in both Physics and Computer Science, my ambition is to uncover novel CMT models, advance machine learning techniques, and explore innovative materials.
+
+Currently, my research encompasses several compelling projects that span condensed matter theory, precision control methods, robotic-human interactive engineering, and scanning tunneling microscopy (STM) techniques:
+
+1. **World's First Four-Scanning Probe STM Construction**: I am actively engaged in constructing the world's first four-scanning probe STM system.
+
+2. **Dynamical Quasicrystals and Tunable Geometry Phases**: My research involves developing the theory of dynamical quasicrystals and tunable geometry phases. This work aims to provide a feasible mathematical model, which I refer to as the "Multi Penrose-tiling Configuration Space," to better understand the nature of quasicrystals.
+
+3. **Automation of Ultra High Vacuum STM-MBE-Interconnected System**: I am working on automating an Ultra High Vacuum STM-Molecular Beam Epitaxy (MBE) interconnected system via deep learning to enhance its efficiency and precision.
+
+4. **Exploring Unique Properties of Novel Materials**: My research extends to the investigation of the unique behaviors and properties of novel materials. This includes exploring phenomena such as one-dimensional solitons and the behavior of pentacene/picene on Au(110) substrates through quantum simulations.
+
+Through these projects, I aim to contribute to the advancement of our understanding of condensed matter physics and the development of cutting-edge AI tools for scientific research.
+<!--
+I am particularly intersted in condensed matter physics and AL4Science. My research aims to develop robust and efficient methods to explore the fundamental properties of materials and build reliable AI tools for physical theories, simulations and experiments. With rigorous foundation in both Physics and Computer Science, I seek to discover new models, advanced machines and novel materials. 
+
+I am now working on several projects, utiliziing condensed matter theory, numerically control methods, robotic-human interactive engineering and STM techniques:
+1. Construction of the world's first four scanning probe STM
+2. Developing the theory of dynamical quasicrystals and tunable geometry phases & Understanding the nature of Quasicrystals by providing feasible mathematical model, which I would to name as Multi Penrose-tiling Configuration Space.
+3. Automation of the  Ultra High Vacuum STM-MBE-Interconnected System
+4. Exloring the unique behaviors and properties of novel materials, such as one-dimensional solitons and contrained pentacene/picene on Au(110) substrate by quantum simulation.
+-->
+explore the superconducti
+<!--
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+-->
+
 
 Getting started
 ======

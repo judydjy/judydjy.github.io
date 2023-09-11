@@ -2,9 +2,8 @@
 title: "Dynamical Optical Quasicrystal and Tunable Geometry Phase"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'In preparation and to be published soon'
-date: 2023-09-11
-venue: 'Not yet'
+excerpt: 'To be published to Optica soon'
+
 
 ---
 

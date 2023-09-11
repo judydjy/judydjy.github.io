@@ -14,11 +14,11 @@ main:
     url: /cv/
 
   - title: "Cooperating Labs"
-    sub_links:
-      - name: "Zeng Lab@USTC"
-        url: http://staff.ustc.edu.cn/~cgzeng/index.html
-      - name: "Brown Lab@Yale"
-        url: https://brownlab.yale.edu/
-      - name: "Hoffman Lab@Harvard"
-        url: https://hoffman.physics.harvard.edu/
+    submenu:
+      - title: "Zeng Lab@USTC"
+        url: /http://staff.ustc.edu.cn/~cgzeng/index.html/
+      - title: "Brown Lab@Yale"
+        url: /https://brownlab.yale.edu/
+      - title: "Hoffman Lab@Harvard"
+        url: /https://hoffman.physics.harvard.edu/
 

@@ -32,11 +32,17 @@ Through these projects, I aim to contribute to the advancement of our understand
 
 News
 ======
-<iframe style="border: 1px solid #ccc; overflow-y: scroll; height: 300px;" srcdoc="
+<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px;" srcdoc="
   <ul>
-    <li><strong>2023-09-10:</strong> TODAY </li>
-    <li><strong>2023-09-09:</strong> YESTERDAY </li>
-    <li><strong>2023-09-08:</strong> PRE </li>
+    <li><strong>2023-09-12:</strong> Invited to write a paper for Optica, named _Dynamical Quasicrystals and Tunable Geometry Phase_, as co-first author with Prof. Charls Brown @ Yale</li>
+    <li><strong>2023-09-11:</strong> Our paper _Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces_ and was Awarded the _Excellent Academic Speech_ was accepted by _Journal of Physics: Conference Series_ (**first author**) </li>
+    <li><strong>2023-08-15:</strong> Arrived in Boston for my Harvard intership </li>
+   <li><strong>2023-07-10:</strong> Addressed an academic report _Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces_ and was Awarded the _Excellent Academic Speech_ prize </li>
+   <li><strong>2023-06-25:</strong> Invited to take a 6-month intership at Harvard by Prof. Jenny Hoffman </li>
+     <li><strong>2023-05-25:</strong> Invited to attend the Chinese Material Conference 2022~2023 at Shenzhen City. </li>
+     <li><strong>2023-03-10:</strong> I am awarded _USTC Undergraduate Mentorship_</li>
+  <li><strong>2023-03-08:</strong> Started to do a project regarding quasicyrstals with Prof. Charles Brown @ Yale</li>
+   <li><strong>2023-03-01:</strong> I will be the TA for class _Electronic and Circuits_(210515.02.2023SP) in 2023 spring. </li>
     <!-- MORE -->
   </ul>
 "></iframe>

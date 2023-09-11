@@ -1,9 +1,9 @@
 # main links links
 main:
 
-
   - title: "Publications"
     url: /publications/
+    html: '<span style="margin-left: 80px;">Publications</span>' 
 
   - title: "Talks"
     url: /talks/    

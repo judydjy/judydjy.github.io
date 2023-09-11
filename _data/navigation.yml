@@ -1,4 +1,3 @@
-# main links links
 main:
 
   - title: "Publications"
@@ -15,6 +14,6 @@ main:
     url: /cv/
     
   - title: "Cooperating Labs"
-    - Zeng Lab@USTC:"http://staff.ustc.edu.cn/~cgzeng/index.html"
-    - Brown Lab@Yale:"https://brownlab.yale.edu/"
-    - Hoffman Lab@Harvard:"https://hoffman.physics.harvard.edu/"
+    - "Zeng Lab@USTC": "http://staff.ustc.edu.cn/~cgzeng/index.html"
+    - "Brown Lab@Yale": "https://brownlab.yale.edu/"
+    - "Hoffman Lab@Harvard": "https://hoffman.physics.harvard.edu/"

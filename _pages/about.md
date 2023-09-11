@@ -32,7 +32,7 @@ Through these projects, I aim to contribute to the advancement of our understand
 
 News
 ======
-<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 240%%; " srcdoc="
+<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 500px; " srcdoc="
   <ul>
     <li><strong>2023-09-12:</strong> Invited to write a paper for Optica, named _Dynamical Quasicrystals and Tunable Geometry Phase_, as co-first author with Prof. Charls Brown @ Yale</li>
     <li><strong>2023-09-11:</strong> Our paper _Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces_ and was Awarded the _Excellent Academic Speech_ was accepted by _Journal of Physics: Conference Series_ (**first author**) </li>

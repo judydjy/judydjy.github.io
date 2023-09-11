@@ -13,14 +13,15 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Cooperating Labs"
-      - subtitle: "Zeng Lab@USTC"
-        url: /http://staff.ustc.edu.cn/~cgzeng/index.html/
-      - subtitle: "Brown Lab@Yale"
-        url: /https://brownlab.yale.edu/
-      - subtitle: "Hoffman Lab@Harvard"
-        url: /https://hoffman.physics.harvard.edu/
+  - title: "Contact"
+    url: /contact/
+  #- title: "Cooperating Labs"
+   #   - subtitle: "Zeng Lab@USTC"
+    #    url: /http://staff.ustc.edu.cn/~cgzeng/index.html/
+     # - subtitle: "Brown Lab@Yale"
+      #  url: /https://brownlab.yale.edu/
+      #- subtitle: "Hoffman Lab@Harvard"
+       # url: /https://hoffman.physics.harvard.edu/
 
-  - title: "contact"
-   url: /contact/
+
 

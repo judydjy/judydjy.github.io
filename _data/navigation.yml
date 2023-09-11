@@ -15,4 +15,6 @@ main:
     url: /cv/
     
   - title: "Cooperating Labs"
-    url: /markdown/
+    - Zeng Lab@USTC:"http://staff.ustc.edu.cn/~cgzeng/index.html"
+    - Brown Lab@Yale:"https://brownlab.yale.edu/"
+    - Hoffman Lab@Harvard:"https://hoffman.physics.harvard.edu/"

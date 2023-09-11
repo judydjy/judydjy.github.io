@@ -1,4 +1,11 @@
+---
+layout: archive
 
+permalink: /contact/
+author_profile: true
+redirect_from:
+  - /resume
+---
 # Contact
 
 - **Phone：** 617 256 8015

@@ -13,8 +13,15 @@ main:
   - title: "CV"
     url: /cv/
 
-    navbar-links:
-    Cooperating Labs:
-    - Zeng Lab@USTC: "http://staff.ustc.edu.cn/~cgzeng/index.html"
-    - Brown Lab@Yale: "https://brownlab.yale.edu/"
-    - Hoffman Lab@Harvard: "https://hoffman.physics.harvard.edu/"
+  - title: "Cooperating Labs"
+  
+    sub_links:
+      - name: "Zeng Lab@USTC"
+        url: http://staff.ustc.edu.cn/~cgzeng/index.html
+       
+      - name: "Brown Lab@Yale"
+        url: https://brownlab.yale.edu/
+       
+      - name: "Hoffman Lab@Harvard"
+        url: https://hoffman.physics.harvard.edu/
+

@@ -32,4 +32,11 @@ Through these projects, I aim to contribute to the advancement of our understand
 
 News
 ======
-NEWS
+<iframe style="border: 1px solid #ccc; overflow-y: scroll; height: 300px;" srcdoc="
+  <ul>
+    <li><strong>2023-09-10:</strong> TODAY </li>
+    <li><strong>2023-09-09:</strong> YESTERDAY </li>
+    <li><strong>2023-09-08:</strong> PRE </li>
+    <!-- MORE -->
+  </ul>
+"></iframe>

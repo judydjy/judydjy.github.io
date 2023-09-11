@@ -1,4 +1,3 @@
-Help me correct the syntax errors in Markdown.
 ---
 title: "Research on Solitons' Interactions in One-dimensional Indium Chains on Si(111) Surfaces"
 collection: publications

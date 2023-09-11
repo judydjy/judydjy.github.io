@@ -6,7 +6,8 @@ excerpt: '**Abstract**  Solitons have garnered significant attention across vari
 date: 2023-09-11
 venue: 'Journal of Physics: Conference Series'
 paperurl: 'https://Steven-Yorn.github.io/files/soliton.pdf'
+Author: Yu Yao, Chaojie Luo, Hui Zhang
 ---
-
-
 [Download paper here](https://Steven-Yorn.github.io/files/soliton.pdf)
+
+Citation: Yu Yao, Chaojie Luo, Hui Zhang, Research on solitons’ interactions in one-dimensional indium chains on Si(111), *Journal of Physics: Conference Series*, **2003**. 

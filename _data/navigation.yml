@@ -3,7 +3,7 @@ main:
 
   - title: "Publications"
     url: /publications/
-    html: '<span style="margin-left: 80px;">Publications</span>' 
+    html: '<span style="margin-right: 180px;">Publications</span>' 
 
   - title: "Talks"
     url: /talks/    

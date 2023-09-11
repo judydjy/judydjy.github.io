@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Applied Physics, University of Science and Technology of China, 2024(expected)
+* B.S. Applied Physics, University of Science and Technology of China, 2024(expected)<br/>
+  GPA: 4.00/4.3, Ranking: Top 3%
 
 Work experience
 ======

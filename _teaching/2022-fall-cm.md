@@ -8,7 +8,7 @@ date: 2022-09-31
 location: "Hefei, Anhui"
 ---
 
-Nice to cooperate with [Prof. Lailin Xu](http://staff.ustc.edu.cn/~xll/about/) in 2022 fall! 
+Nice to cooperate with <a href="http://staff.ustc.edu.cn/~xll/about/" style="color: orange;">Prof. Lailin Xu</a> in 2022 fall! 
 <br/>This is a fundamental course for Physics undergraduates.
 
 Click to see the teaching resourses.

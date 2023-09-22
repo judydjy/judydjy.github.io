@@ -7,7 +7,7 @@ venue: "School of Information Science and Technology, USTC"
 date: 2023-03-01
 location: "Hefei, Anhui"
 ---
-Nice to cooperate with [Prof. Li Gu](https://etcis-web.ustc.edu.cn/2016/0504/c27201a31476/page.htm) in 2023 spring!
+Nice to cooperate with <a href="https://etcis-web.ustc.edu.cn/2016/0504/c27201a31476/page.htm" style="color: orange;">Prof. Li Gu</a> in 2023 spring!
 <br/>This is a professional course for Applied Physics and Electrical Engineering undergraduates.
 
 Click to see the teaching resourses. 

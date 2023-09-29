@@ -48,7 +48,7 @@ News
   }
   strong {
     display: inline-block;
-    width: 120px; /* 调整时间部分的宽度 */
+    width: 120px; 
   }
 </style>
 <ul>

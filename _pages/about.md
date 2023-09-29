@@ -16,17 +16,17 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Resaerch Insterests
 ======
-In pursuit of being a condensed matter physics experimentalist, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials and uncover the nature of superconductivity.
+In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [Scanning Tunneling Microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [Molecular-Beam EpitaxY](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [Angle-resolved photoemission spectroscopy](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#:~:text=Angle%2Dresolved%20photoemission%20spectroscopy%20(ARPES,material%2C%20usually%20a%20crystalline%20solid.) and *etc*.
 
 Currently, I am foucused on several projects:
 
-1. **World's First Four-Scanning Probe STM Construction**: I am actively engaged in constructing the world's first four-scanning probe STM system.
+1. **World's First Four-Scanning Probe STM Construction**: We are now testing the temperature and pressure of the chambers and starting to prepare some samples.
 
-2. **Dynamical Quasicrystals and Tunable Geometry Phases**: My research involves developing the theory of dynamical quasicrystals and tunable geometry phases. This work aims to provide a feasible mathematical model, which I refer to as the "Multi Penrose-tiling Configuration Space," to better understand the nature of quasicrystals.
+2. **Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phases**: I have completed the theoretical analysis regarding dynamical quasicyrstals and developed robust methodology to translate them while maintaining the same lattice geometry. Currently I am invited by [**Optica**](https://www.optica.org/) to write a corresponding paper to tell the story as the *First Author*.
 
-3. **Automation of Ultra High Vacuum STM-MBE-Interconnected System**: I am working on automating an Ultra High Vacuum STM-Molecular Beam Epitaxy (MBE) interconnected system to enhance its efficiency and precision.
+3. **In-Situ STM-MBE-Interconnected System Construction**: My research includes simulation of [our lab](http://staff.ustc.edu.cn/~huiz/index.html) by SolidWorks and design of Low-Temperature Comprehensive Platform. 
 
-4. **Exploring Unique Properties of Novel Materials**: My research extends to the investigation of the unique behaviors and properties of novel materials. This includes exploring phenomena such as one-dimensional solitons and the behavior of pentacene/picene on Au(110) substrates through quantum simulations.
+4. **Investigating Rare-Earth Compound with STM**: Currently I am searching the CDW features and critical point of a specific rare-earth compound with STM.
 
 
 News

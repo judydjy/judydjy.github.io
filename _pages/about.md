@@ -37,19 +37,31 @@ Currently, I am foucused on several projects:
 
 News
 ======
-<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
-  <ul>
+<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc='
+<style>
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  strong {
+    display: inline-block;
+    width: 120px; /* 调整时间部分的宽度 */
+  }
+</style>
+<ul>
   <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship</strong></li>
-    <li><strong>2023-09-12:</strong> Invited to write a paper for <strong>Optica</strong>, titled <em>Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phase</em>, <strong>(first author)</strong>, with <strong>Prof. Charles Brown @ Yale</strong> as the <em>corresponding author</em></li>
-    <li><strong>2023-09-11:</strong> Our paper <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> was accepted by <em>Journal of Physics: Conference Series</em>, <strong>first author</strong> </li>
-   <li><strong>2023-07-10:</strong> Addressed an academic report <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> at CMC2022~2023. And was awarded the <strong>Excellent Academic Speech Prize</strong> </li>
-<li><strong>2023-06-30:</strong> Invited to take a 6-month internship at <strong>Harvard</strong>, under the guidance of <strong>Prof. Jenny Hoffman</strong></li>
-     <li><strong>2023-05-25:</strong> Invited to attend the <em>Chinese Material Conference 2022~2023 </em>at Shenzhen City</li>
-     <li><strong>2023-03-10:</strong> Awarded <em>USTC Undergraduate Mentorship</em></li>
-<li><strong>2023-03-05:</strong> Begining of cooperation with <strong>Prof. Charles Brown @ Yale</strong></li>
-   <li><strong>2023-03-01:</strong> I will be the TA for class <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring</li>
-  <li><strong>2023-03-1:</strong> Awarded <strong>Excellent Teaching Assistant in USTC</strong></li>
-    <!-- MORE -->
-  </ul>
-"></iframe>
+  <li><strong>2023-09-12:</strong> Invited to write a paper for Optica, titled <em>Dynamical Quasicrystals and Tunable Geometry Phase</em>, as co-first author with <strong>Prof. Charles Brown @ Yale</strong></li>
+  <li><strong>2023-09-11:</strong> Our paper <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> was accepted by <em>Journal of Physics: Conference Series</em>, <strong>first author</strong> </li>
+  <li><strong>2023-07-10:</strong> Addressed an academic report <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> and was Awarded the <em>Excellent Academic Speech Prize</em> </li>
+  <li><strong>2023-05-25:</strong> Invited to attend the Chinese Material Conference 2022~2023 at Shenzhen City</li>
+  <li><strong>2023-03-10:</strong> Awarded <em>USTC Undergraduate Mentorship</em></li>
+  <li><strong>2023-03-01:</strong> I will be the TA for class <em>Electronic and Circuits</em>(210515.02.2023SP) in 2023 spring</li>
+  <li><strong>2023-09-12:</strong> Awarded <strong>Excellent Teaching Assistant in USTC</strong></li>
+  <!-- MORE -->
+</ul>
+'></iframe>
+
 

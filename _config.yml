@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven Yao"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Yu (Steven) Yao"
 description              : &description "personal description"

@@ -7,16 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Yu Yao, a senior undergraduate at [School of Physical Sciences](http://en.physics.ustc.edu.cn/mainm.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I am Yu Yao, a senior undergraduate at <a href="http://en.physics.ustc.edu.cn/mainm.htm" style="text-decoration: none;">School of Physical Sciences</a>, <a href="https://en.ustc.edu.cn/" style="text-decoration: none;">University of Science and Technology of China</a>.
 I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="color: orange;">Prof. Changgan Zeng@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="color: orange;">Prof. Charles Brown@Yale</a> and <a href="https://www.physics.harvard.edu/people/facpages/hoffman" style="color: orange;">Prof. Jenny Hoffman@Harvard</a>.
+
+
 <!--
+在上面的示例中，我添加了`text-decoration: none;`到`<a>`标签的`style`属性中，以去掉链接的下划线。这将使链接文本没有下划线。您可以根据需要调整颜色和其他样式属性。
+I am Yu Yao, a senior undergraduate at [School of Physical Sciences](http://en.physics.ustc.edu.cn/mainm.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="color: orange; text-decoration: none;">Prof. Changgan Zeng@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="color: orange; text-decoration: none;">Prof. Charles Brown@Yale</a>, and <a href="https://www.physics.harvard.edu/people/facpages/hoffman" style="color: orange; text-decoration: none;">Prof. Jenny Hoffman@Harvard</a>.
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).\
 -->
 
 
 Resaerch Insterests
 ======
-In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [Scanning Tunneling Microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [Molecular-Beam EpitaxY](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [Angle-resolved photoemission spectroscopy](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#:~:text=Angle%2Dresolved%20photoemission%20spectroscopy%20(ARPES,material%2C%20usually%20a%20crystalline%20solid.) and *etc*.
+In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [Scanning Tunneling Microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [Molecular-Beam EpitaxY](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [Angle-resolved photoemission spectroscopy](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#) and *etc*.
 
 Currently, I am foucused on several projects:
 
@@ -33,15 +39,14 @@ News
 ======
 <iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
   <ul>
+  <li><strong>2023-09-20:</strong> Awarded **National Scholarship**</li>
     <li><strong>2023-09-12:</strong> Invited to write a paper for Optica, titled *Dynamical Quasicrystals and Tunable Geometry Phase*, as co-first author with **Prof. Charles Brown @ Yale**</li>
     <li><strong>2023-09-11:</strong> Our paper *Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces* was accepted by *Journal of Physics: Conference Series*, **first author** </li>
-    <li><strong>2023-08-15:</strong> Arrived in Boston for my Harvard internship </li>
    <li><strong>2023-07-10:</strong> Addressed an academic report *Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces* and was Awarded the *Excellent Academic Speech Prize* </li>
-   <li><strong>2023-06-25:</strong> Invited to take a 6-month intership by **Prof. Jenny Hoffman @ Harvard** </li>
      <li><strong>2023-05-25:</strong> Invited to attend the Chinese Material Conference 2022~2023 at Shenzhen City. </li>
-     <li><strong>2023-03-10:</strong> I am awarded *USTC Undergraduate Mentorship*</li>
-  <li><strong>2023-03-08:</strong> Started to do a project regarding quasicyrstals with **Prof. Charles Brown @ Yale**</li>
+     <li><strong>2023-03-10:</strong> Awarded *USTC Undergraduate Mentorship*</li>
    <li><strong>2023-03-01:</strong> I will be the TA for class *Electronic and Circuits*(210515.02.2023SP) in 2023 spring. </li>
+  <li><strong>2023-09-12:</strong> Awarded **Excellent Teaching Assistant in USTC**</li>
     <!-- MORE -->
   </ul>
 "></iframe>

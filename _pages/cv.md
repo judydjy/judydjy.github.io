@@ -45,5 +45,6 @@ Awards
 * Yang Chengzhong Scholarship
 * Outstanding Student Prize, Gold Prize
 * Grand Prize for Undergraduate Entrereneurship and Innovators
+* USTC Undergraduate Mentorship
 * Excellent Teaching Assistant in USTC
   

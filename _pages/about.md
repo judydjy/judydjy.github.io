@@ -43,9 +43,9 @@ News
     <li><strong>2023-09-12:</strong> Invited to write a paper for Optica, titled *Dynamical Quasicrystals and Tunable Geometry Phase*, as co-first author with **Prof. Charles Brown @ Yale**</li>
     <li><strong>2023-09-11:</strong> Our paper *Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces* was accepted by *Journal of Physics: Conference Series*, **first author** </li>
    <li><strong>2023-07-10:</strong> Addressed an academic report *Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces* and was Awarded the *Excellent Academic Speech Prize* </li>
-     <li><strong>2023-05-25:</strong> Invited to attend the Chinese Material Conference 2022~2023 at Shenzhen City. </li>
+     <li><strong>2023-05-25:</strong> Invited to attend the Chinese Material Conference 2022~2023 at Shenzhen City</li>
      <li><strong>2023-03-10:</strong> Awarded *USTC Undergraduate Mentorship*</li>
-   <li><strong>2023-03-01:</strong> I will be the TA for class *Electronic and Circuits*(210515.02.2023SP) in 2023 spring. </li>
+   <li><strong>2023-03-01:</strong> I will be the TA for class *Electronic and Circuits*(210515.02.2023SP) in 2023 spring</li>
   <li><strong>2023-09-12:</strong> Awarded **Excellent Teaching Assistant in USTC**</li>
     <!-- MORE -->
   </ul>

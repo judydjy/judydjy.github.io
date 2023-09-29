@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Yu Yao, a senior undergraduate at <a href="http://en.physics.ustc.edu.cn/mainm.htm" style="text-decoration: none;">School of Physical Sciences</a>, <a href="https://en.ustc.edu.cn/" style="text-decoration: none;">University of Science and Technology of China</a>.
-I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="color: orange;">Prof. Changgan Zeng@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="color: orange;">Prof. Charles Brown@Yale</a> and <a href="https://www.physics.harvard.edu/people/facpages/hoffman" style="color: orange;">Prof. Jenny Hoffman@Harvard</a>.
+I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="text-decoration: none" style="color: orange;">Prof. Changgan Zeng@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="text-decoration: none" style="color: orange;">Prof. Charles Brown@Yale</a> and <a href="https://www.physics.harvard.edu/people/facpages/hoffman" style="text-decoration: none" style="color: orange;">Prof. Jenny Hoffman@Harvard</a>.
 
 
 <!--
@@ -22,7 +22,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Resaerch Insterests
 ======
-In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [Scanning Tunneling Microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [Molecular-Beam EpitaxY](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [Angle-resolved photoemission spectroscopy](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#) and *etc*.
+In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [STM](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [MBE](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [ARPES](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#) and *etc*.
 
 Currently, I am foucused on several projects:
 

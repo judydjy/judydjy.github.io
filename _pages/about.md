@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Yu Yao, a senior undergraduate at <a href="http://en.physics.ustc.edu.cn/mainm.htm" style="text-decoration: none;">School of Physical Sciences</a>, <a href="https://en.ustc.edu.cn/" style="text-decoration: none;">University of Science and Technology of China</a>.
-I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="text-decoration: none" style="color: orange;">Prof. Changgan Zeng@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="text-decoration: none" style="color: orange;">Prof. Charles Brown@Yale</a> and <a href="https://www.physics.harvard.edu/people/facpages/hoffman" style="text-decoration: none" style="color: orange;">Prof. Jenny Hoffman@Harvard</a>.
+I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="text-decoration: none; color: orange;">Prof. Changgan Zeng@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="text-decoration: none; color: orange;">Prof. Charles Brown@Yale</a> and <a href="https://www.physics.harvard.edu/people/facpages/hoffman" style="text-decoration: none; color: orange;">Prof. Jenny Hoffman@Harvard</a>.
 
 
 <!--

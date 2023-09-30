@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Yu (Steven) Yao"
+name                     : &name "Jiayi (Judy) Dong"
 description              : &description "personal description"
 url                      : https://steven-yorn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steven-yorn.github.io"
+repository               : "judydjy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu (Steven) Yao"
-  avatar           : "selfie_in_jenny_lab_9_21_2023.jpg"
+  name             : "Jiayi (Judy) Dong"
+  avatar           : 
   bio              : "Senior Undergrad in Physics @ USTC"
-  location         : "Boston, MA"
+  location         : "LA, CA"
   employer         :
   pubmed           : 
   googlescholar    : 

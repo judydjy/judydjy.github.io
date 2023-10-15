@@ -17,7 +17,7 @@ Education
 Research experience
 ======
 * [Nanophotonic Device and System Labl Physics](http://np.ustc.edu.cn./main.htm)|USTC|Research Assistant|2023.02 - now 
-* [Quantum Materials and Devices lab](https://qmdlab.seas.ucla.edu/)|UCLA|Research Assistant|2023.4 - now
+* [Quantum Materials and Devices lab](https://qmdlab.seas.ucla.edu/)|UCLA|Research Assistant|2023.04 - now
 * [Nano-optics and Nano-manufacturing Lab](http://staff.ustc.edu.cn/~lwang121/index.html)|USTC|Research Assistant|2022.07 - 2023.02
  
 Publications

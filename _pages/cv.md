@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Applied Physics, University of Science and Technology of China, 2024(expected)<br/>
-  GPA: 4.00/4.3, Ranking: Top 3%
+* B.S. Optics, University of Science and Technology of China, 2024(expected)<br/>
+  GPA: 3.64/4.3, Ranking: Top 25%
 
 Research experience
 ======
@@ -40,11 +40,10 @@ Teaching
 
 Awards
 ======
-* National Scholarship
+* Zhang Zongzhi Science and Technology Innovation Scholarship(Top 20%)
+* Endeavor Student Scholarship(Top 3% of improvement)
 * USTC Felowship
-* Yang Chengzhong Scholarship
-* Outstanding Student Prize, Gold Prize
+* Wang Dayan Scholarship(Technology Innovation Gifted Class Scholarship)
 * Grand Prize for Undergraduate Entrereneurship and Innovators
-* USTC Undergraduate Mentorship
 * Excellent Teaching Assistant in USTC
   

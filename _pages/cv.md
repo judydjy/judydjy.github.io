@@ -16,9 +16,9 @@ Education
 
 Research experience
 ======
-* [Lab for Low-dimensional Physics](http://staff.ustc.edu.cn/~cgzeng/index.html)|USTC|Research Assistant|2020.11 - now 
-* [A Single-/Few-/Many- Body Quantum Physics Lab](https://brownlab.yale.edu/)|Yale|Cooperate Scholar|2023.3 - now
-* [Hoffman Lab](https://hoffman.physics.harvard.edu/)|Harvard|Research Scholar|2023.8 - now 
+* [Nanophotonic Device and System Labl Physics](http://np.ustc.edu.cn./main.htm)|USTC|Research Assistant|2023.02 - now 
+* [Quantum Materials and Devices lab](https://qmdlab.seas.ucla.edu/)|UCLA|Research Assistant|2023.4 - now
+* [Nano-optics and Nano-manufacturing Lab](http://staff.ustc.edu.cn/~lwang121/index.html)|USTC|Research Assistant|2022.07 - 2023.02
  
 Publications
 ======

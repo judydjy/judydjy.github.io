@@ -1,14 +1,14 @@
 ---
-title: "EE210515: Electronic Circuits"
+title: "PHYS 1005B.06: Atomic Physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-ec
-venue: "School of Information Science and Technology, USTC"
-date: 2023-03-01
+venue: "School of Physical Sciences, USTC"
+date: 2023.03-2.23.07
 location: "Hefei, Anhui"
 ---
-Nice to cooperate with <a href="https://etcis-web.ustc.edu.cn/2016/0504/c27201a31476/page.htm" style="color: orange;">Prof. Li Gu</a> in 2023 spring!
-<br/>This is a professional course for Applied Physics and Electrical Engineering undergraduates.
+Nice to cooperate with <a href="http://ooe.ustc.edu.cn/hr31.html" style="color: orange;">Prof. Peijun Yao</a> in 2023 spring!
+<br/>This is an elective course for undergraduates in the School of Mathematics.
 
 Click to see the teaching resourses. 
 [Teaching Slides](Steven-Yorn.github.io/files/ElectronicCircuits.zip)

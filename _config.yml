@@ -11,7 +11,7 @@ title                    : "About"
 title_separator          : "-"
 name                     : &name "Jiayi (Judy) Dong"
 description              : &description "personal description"
-url                      : https://steven-yorn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://judydjy.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "judydjy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yy2281162447@mail.ustc.edu.cn"
+  email            : "jdong@g.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/Steven-Yorn"
+  github           : #"github.com/Steven-Yorn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/yu-yao-8599b5265/"
-  orcid            : "orcid.org/my-orcid?orcid=0009-0000-7382-878X"
+  linkedin         : #"linkedin.com/in/yu-yao-8599b5265/"
+  orcid            : #rcid.org/my-orcid?orcid=0009-0000-7382-878X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

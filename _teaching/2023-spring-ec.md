@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-ec
 venue: "School of Physical Sciences, USTC"
-date: 2023.03-2.23.07
+date: 2023.03-2023.07
 location: "Hefei, Anhui"
 ---
 Nice to cooperate with <a href="http://ooe.ustc.edu.cn/hr31.html" style="color: orange;">Prof. Peijun Yao</a> in 2023 spring!

@@ -1,10 +1,10 @@
 ---
-title: "PHYS1001A: Classical Mechanics"
+title: "PHYS1003B.12: Optics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-cm
 venue: "School of Physical Sciences, USTC"
-date: 2022-09-31
+date: 2023-09-31
 location: "Hefei, Anhui"
 ---
 

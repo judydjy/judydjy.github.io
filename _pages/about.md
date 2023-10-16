@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Judy Dong, a senior undergraduate at <a href="http://en.physics.ustc.edu.cn/mainm.htm" style="text-decoration: none;">School of Physical Sciences</a>, <a href="https://en.ustc.edu.cn/" style="text-decoration: none;">University of Science and Technology of China</a>.
-I am fortunately advised by <a href="http://www.hfnl.ustc.edu.cn/detail?id=11337" style="text-decoration: none; color: orange;">Prof. Yang Chen@USTC</a>, <a href="https://physics.yale.edu/people/charles-brown" style="text-decoration: none; color: orange;">Prof. Charles Brown@Yale</a>.
+I am Jiayi(Judy) Dong, a senior undergraduate at <a href="http://en.physics.ustc.edu.cn/mainm.htm" style="text-decoration: none;">School of Physical Sciences</a>, <a href="https://en.ustc.edu.cn/" style="text-decoration: none;">University of Science and Technology of China</a>.
+I am fortunately advised by <a href="https://faculty.ustc.edu.cn/chenyang/en/index.htm" style="text-decoration: none; color: orange;">Prof. Yang Chen@USTC</a>, <a href="https://samueli.ucla.edu/people/laura-kim/" style="text-decoration: none; color: orange;">Prof. Laura Kim@UCLA</a>.
 
 
 <!--
@@ -22,37 +22,33 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Resaerch Insterests
 ======
-In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [STM](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [MBE](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [ARPES](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#) and *etc*.
+In pursuit of being a **Scholar in Nanophotonics Devices Design and Manufacture**, my research is driven by the goal investigating of the interaction between light and matter at the micro- and nanoscale and enhance and modulate it through structural and material design to achieve applications in fields such as optical information storage and display, quantum sensing, and quantum optics. My research primarily focuses on optical phenomena such as [BIC (Bounded States in the Continuum)](https://en.wikipedia.org/wiki/Bound_state_in_the_continuum), [GMR (Guided-Mode Resonance)](https://en.wikipedia.org/wiki/Guided-mode_resonance), and [LSPR (Localized Surface Plasmon Resonance)](https://en.wikipedia.org/wiki/Surface_plasmon_resonance)and *etc*.
 
 Currently, I am foucused on several projects:
 
-1. **World's First Four-Scanning Probe STM Construction**: We are now testing the temperature and pressure of the chambers and starting to prepare some samples.
+1. **Absorption-Based Diamond Spin Microscopy on a Dielectric Quantum Metasurface**: I have completed the Dielectric Quatum Metesurface design. It is the first all-dielectric quantum metasurface designed to attain an ultra-high Q factor and substantial field confinement in diamond, employing a quasi-BIC mode. The manufacturing and characterization processes are currently in progress, as I'm preparing a corresponding research paper with [Prof. Laura Kim](https://samueli.ucla.edu/people/laura-kim/)to tell the story as the *First Author*.
 
-2. **Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phases**: I have completed the theoretical analysis regarding dynamical quasicyrstals and developed robust methodology to translate them while maintaining the same lattice geometry. Currently I am invited by [**Optica**](https://www.optica.org/) to write a corresponding paper to tell the story as the *First Author*.
-
-3. **In-Situ STM-MBE-Interconnected System Construction**: My research includes simulation of [our lab](http://staff.ustc.edu.cn/~huiz/index.html) by SolidWorks and design of Low-Temperature Comprehensive Platform. 
-
-4. **Investigating Rare-Earth Compound with STM**: Currently I am searching the CDW features and critical point of a specific rare-earth compound with STM.
+3. **Fluorescence Emission Based on Bound States in the Continuum**: Currently I am investigating on the planar BIC metasurface design to modulate the fluorescence emission of typical fluorescence materials such as WS2 with [Prof. Yang Chen](https://faculty.ustc.edu.cn/chenyang/en/index.htm)
 
 
 
-News
-======
-<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
-  <ul>
-  <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship</strong></li>
-    <li><strong>2023-09-12:</strong> Invited to write a paper for <strong>Optica</strong>, titled <em>Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phase</em>, <strong>(first author)</strong>, with <strong>Prof. Charles Brown @ Yale</strong> as the <em>corresponding author</em></li>
-    <li><strong>2023-09-11:</strong> Our paper <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> was accepted by <em>Journal of Physics: Conference Series</em>, <strong>first author</strong> </li>
-   <li><strong>2023-07-10:</strong> Addressed an academic report <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> at CMC2022~2023. And was awarded the <strong>Excellent Academic Speech Prize</strong> </li>
-<li><strong>2023-06-30:</strong> Invited to take a 6-month internship at <strong>Harvard</strong>, under the guidance of <strong>Prof. Jenny Hoffman</strong></li>
-     <li><strong>2023-05-25:</strong> Invited to attend the <em>Chinese Material Conference 2022~2023 </em>at Shenzhen City</li>
-     <li><strong>2023-03-10:</strong> Awarded <em>USTC Undergraduate Mentorship</em></li>
-<li><strong>2023-03-05:</strong> Begining of cooperation with <strong>Prof. Charles Brown @ Yale</strong></li>
-   <li><strong>2023-03-01:</strong> I will be the TA for class <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring</li>
-  <li><strong>2023-03-1:</strong> Awarded <strong>Excellent Teaching Assistant in USTC</strong></li>
-    <!-- MORE -->
-  </ul>
-"></iframe>
+#News
+#======
+#<iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
+#  <ul>
+#  <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship</strong></li>
+#    <li><strong>2023-09-12:</strong> Invited to write a paper for <strong>Optica</strong>, titled <em>Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phase</em>, <strong>#(first author)</strong>, with <strong>Prof. Charles Brown @ Yale</strong> as the <em>corresponding author</em></li>
+#    <li><strong>2023-09-11:</strong> Our paper <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> was accepted by <em>Journal of Physics: Conference Series</em>, <strong>first author</strong> </li>
+#   <li><strong>2023-07-10:</strong> Addressed an academic report <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> at CMC2022~2023. And was awarded the <strong>Excellent Academic Speech Prize</strong> </li>
+#<li><strong>2023-06-30:</strong> Invited to take a 6-month internship at <strong>Harvard</strong>, under the guidance of <strong>Prof. Jenny Hoffman</strong></li>
+ #    <li><strong>2023-05-25:</strong> Invited to attend the <em>Chinese Material Conference 2022~2023 </em>at Shenzhen City</li>
+  #   <li><strong>2023-03-10:</strong> Awarded <em>USTC Undergraduate Mentorship</em></li>
+#<li><strong>2023-03-05:</strong> Begining of cooperation with <strong>Prof. Charles Brown @ Yale</strong></li>
+ #  <li><strong>2023-03-01:</strong> I will be the TA for class <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring</li>
+  #<li><strong>2023-03-1:</strong> Awarded <strong>Excellent Teaching Assistant in USTC</strong></li>
+   # <!-- MORE -->
+  #</ul>
+#"></iframe>
 
 
 

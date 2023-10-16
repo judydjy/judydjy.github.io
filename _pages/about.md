@@ -24,7 +24,7 @@ Resaerch Insterests
 ======
 In pursuit of being a **Scholar in Nanophotonics Devices Design and Manufacture**, my research is driven by the goal investigating of the interaction between light and matter at the micro- and nanoscale and enhance and modulate it through structural and material design to achieve applications in fields such as optical information storage and display, quantum sensing, and quantum optics. My research primarily focuses on optical phenomena such as [BIC (Bounded States in the Continuum)](https://en.wikipedia.org/wiki/Bound_state_in_the_continuum), [GMR (Guided-Mode Resonance)](https://en.wikipedia.org/wiki/Guided-mode_resonance), and [LSPR (Localized Surface Plasmon Resonance)](https://en.wikipedia.org/wiki/Surface_plasmon_resonance)and *etc*.
 
-Currently, I am foucused on several projects:
+Currently, I am focused on several projects:
 
 1. **Absorption-Based Diamond Spin Microscopy on a Dielectric Quantum Metasurface**: I have completed the Dielectric Quatum Metesurface design. It is the first all-dielectric quantum metasurface designed to attain an ultra-high Q factor and substantial field confinement in diamond, employing a quasi-BIC mode. The manufacturing and characterization processes are currently in progress, as I'm preparing a corresponding research paper with [Prof. Laura Kim](https://samueli.ucla.edu/people/laura-kim/)to tell the story as the *First Author*.
 

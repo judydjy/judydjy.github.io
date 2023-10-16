@@ -20,7 +20,7 @@ amplify the IR absorption by introducing a resonant diamond all-dielectric metas
 Expected date: 2023.12
 venue: 'ACS Photonics'
 <!--paperurl: 'https://Steven-Yorn.github.io/files/soliton.pdf'-->
-Author: Jiayi DOng, Laura Kim
+Author: Jiayi Dong, Laura Kim
 ---
 <!--[Download paper here](https://Steven-Yorn.github.io/files/soliton.pdf)
 Citation: Yu Yao, Chaojie Luo, Hui Zhang, Research on solitons’ interactions in one-dimensional indium chains on Si(111), *Journal of Physics: Conference Series*, **2023**.-->

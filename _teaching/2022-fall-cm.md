@@ -4,12 +4,12 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-cm
 venue: "School of Physical Sciences, USTC"
-date: 2023-09-31
+date: 2023.03-2023.07
 location: "Hefei, Anhui"
 ---
 
-Nice to cooperate with <a href="http://staff.ustc.edu.cn/~xll/about/" style="color: orange;">Prof. Lailin Xu</a> in 2022 fall! 
-<br/>This is a fundamental course for Physics undergraduates.
+Nice to cooperate with <a href="http://ooe.ustc.edu.cn/hr31.html" style="color: orange;">Prof. Peijun Yao</a> in 2023 Spring! 
+<br/>This is an elective course for students in the School of Mathematics.
 
 Click to see the teaching resourses.
 [Part 1](https://Steven-Yorn.github.io/files/ClassicalMechanicsPart1.zip)

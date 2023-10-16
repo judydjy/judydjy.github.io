@@ -4,9 +4,6 @@ main:
     url: /publications/
     html: '<span style="margin-right: 180px;">Publications</span>' 
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
         

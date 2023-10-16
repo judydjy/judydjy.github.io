@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "Research on Solitons' Interactions in One-dimensional Indium Chains on Si(111) Surfaces"
 collection: publications
@@ -13,4 +10,7 @@ paperurl: 'https://Steven-Yorn.github.io/files/soliton.pdf'
 Author: Yu Yao, Chaojie Luo, Hui Zhang
 ---
 [Download paper here](https://judydjy.github.io/files/soliton.pdf)
-Citation: Yu Yao, Chaojie Luo, Hui Zhang, Research on solitons’ interactions in one-dimensional indium chains on Si(111), *Journal of Physics: Conference Series*, **2023**.
+
+Citation: Yu Yao, Chaojie Luo, Hui Zhang, Research on solitons’ interactions in one-dimensional indium chains on Si(111), *Journal of Physics: Conference Series*, **2023**. 
+
+

@@ -28,7 +28,7 @@ Currently, I am foucused on several projects:
 
 1. **Absorption-Based Diamond Spin Microscopy on a Dielectric Quantum Metasurface**: I have completed the Dielectric Quatum Metesurface design. It is the first all-dielectric quantum metasurface designed to attain an ultra-high Q factor and substantial field confinement in diamond, employing a quasi-BIC mode. The manufacturing and characterization processes are currently in progress, as I'm preparing a corresponding research paper with [Prof. Laura Kim](https://samueli.ucla.edu/people/laura-kim/)to tell the story as the *First Author*.
 
-3. **Fluorescence Emission Based on Bound States in the Continuum**: Currently I am investigating on the planar BIC metasurface design to modulate the fluorescence emission of typical fluorescence materials such as WS2 with [Prof. Yang Chen](https://faculty.ustc.edu.cn/chenyang/en/index.htm)
+2. **Fluorescence Emission Based on Bound States in the Continuum**: Currently I am investigating on the planar BIC metasurface design to modulate the fluorescence emission of typical fluorescence materials such as WS2 with [Prof. Yang Chen](https://faculty.ustc.edu.cn/chenyang/en/index.htm)
 
 
 

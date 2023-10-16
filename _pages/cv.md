@@ -38,8 +38,8 @@ Awards
 ======
 * Zhang Zongzhi Science and Technology Innovation Scholarship(Top 20%)
 * Endeavor Student Scholarship(Top 3% of improvement)
-* USTC Felowship
 * Wang Dayan Scholarship(Technology Innovation Gifted Class Scholarship)
-* Grand Prize for Undergraduate Entrereneurship and Innovators
 * Excellent Teaching Assistant in USTC
+* Grand Prize for Undergraduate Entrereneurship and Innovators
+* USTC Fellowship
   

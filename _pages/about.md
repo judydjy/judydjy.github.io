@@ -22,7 +22,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Resaerch Insterests
 ======
-In pursuit of being a **Scholar in Nanophotonics Devices Design and Manufacture**, my research is driven by the goal investigating of the interaction between light and matter at the micro- and nanoscale and enhance and modulate it through structural and material design to achieve applications in fields such as optical information storage and display, quantum sensing, and quantum optics. My research primarily focuses on optical phenomena such as [BIC (Bounded States in the Continuum)](https://en.wikipedia.org/wiki/Bound_state_in_the_continuum), [GMR (Guided-Mode Resonance)](https://en.wikipedia.org/wiki/Guided-mode_resonance), and [LSPR (Localized Surface Plasmon Resonance)](https://en.wikipedia.org/wiki/Surface_plasmon_resonance)and *etc*.
+In pursuit of being a **Scholar in Nanophotonics Devices Design and Manufacture**, my research is driven by the goal investigating of the interaction between light and matter at the micro- and nanoscale and enhance and modulate it through structural and material design to achieve applications in fields such as optical information storage and display, quantum sensing, and quantum optics. My research primarily focuses on optical phenomena such as [BIC (Bounded States in the Continuum)](https://en.wikipedia.org/wiki/Bound_state_in_the_continuum), [GMR (Guided-Mode Resonance)](https://en.wikipedia.org/wiki/Guided-mode_resonance), [LSPR (Localized Surface Plasmon Resonance)](https://en.wikipedia.org/wiki/Surface_plasmon_resonance)and *etc*.
 
 Currently, I am focused on several projects:
 

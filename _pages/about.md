@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Jiayi(Judy) Dong, a senior undergraduate at <a href="http://en.physics.ustc.edu.cn/mainm.htm" style="text-decoration: none;">School of Physical Sciences</a>, <a href="https://en.ustc.edu.cn/" style="text-decoration: none;">University of Science and Technology of China</a>.
-I am fortunately advised by <a href="https://faculty.ustc.edu.cn/chenyang/en/index.htm" style="text-decoration: none; color: orange;">Prof. Yang Chen@USTC</a>, <a href="https://samueli.ucla.edu/people/laura-kim/" style="text-decoration: none; color: orange;">Prof. Laura Kim@UCLA</a>.
+Presently, I am fortunately advised by <a href="https://faculty.ustc.edu.cn/chenyang/en/index.htm" style="text-decoration: none; color: orange;">Prof. Yang Chen@USTC</a>, <a href="https://samueli.ucla.edu/people/laura-kim/" style="text-decoration: none; color: orange;">Prof. Laura Kim@UCLA</a>.
 
 
 <!--

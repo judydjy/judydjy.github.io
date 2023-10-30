@@ -37,10 +37,12 @@ Teaching
 
 Awards
 ======
-* Zhang Zongzhi Science and Technology Innovation Scholarship(Top 20%)
-* Endeavor Student Scholarship(Top 3% of improvement)
+* Zhang Zongzhi Science and Technology Innovation Scholarship(4/310)
+* Endeavor Student Scholarship(7/310)
 * Shang-Guang Scholarship(Photonics Innovation Gifted Class Scholarship)
+* Wang Dayan Scholarship(Photoelectric Information Innovation Gifted Class Scholarship)
 * Excellent Teaching Assistant in USTC
 * Grand Prize for Undergraduate Entrereneurship and Innovators
-* USTC Fellowship
+* USTC FellowshipUSTC Fellowship(Outstanding Award for Overseas Academic Research)
+* Chuang-Pu Scholarship and CGN Scholarship(USTC Distinguished Undergraduate College Scholarship)
   

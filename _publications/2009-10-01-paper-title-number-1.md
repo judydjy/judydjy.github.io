@@ -9,7 +9,7 @@ venue: 'ACS Photonics'
 paperurl: 'https://judydjy.github.io/files/acsphotonics.1c01005.pdf'
 Author: Jiayi Dong, Laura Kim
 ---
-[Download paper here](https://judydjy.github.io/files/acsphotonics.1c01005.pdf)
+<!--[Download paper here](https://judydjy.github.io/files/acsphotonics.1c01005.pdf)-->
 
 
 

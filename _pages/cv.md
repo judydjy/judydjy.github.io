@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. Optics, University of Science and Technology of China, 2024(expected)<br/>
-  GPA: 3.64/4.3, Ranking: Top 25%
+  GPA: 3.64/4.3, Ranking: Top 28%
+  Upperclass Score: 3.81/4.3, Ranking: Top 10%
 
 Research experience
 ======

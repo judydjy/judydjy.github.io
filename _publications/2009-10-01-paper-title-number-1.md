@@ -9,7 +9,7 @@ of NV(Nitrogen Vacancy) centers. This greatly enhances the integration of utiliz
 sensing, and due to the ultra high field enhancement and Q factor of the BICs, this dielectric metasurface greatly
 facilitates the readout and detection of the OMDR(optically detected magnetic resonance) of NV centers'
 date: 2024-01-30
-venue: 'ACS Photonics'
+<!--venue: 'ACS Photonics'-->
 paperurl: 'https://judydjy.github.io/files/JiayiDong_CV.pdf'
 Author: Jiayi Dong<sup>1</sup>, Shicong Wang, Laura Kim<sup>*</sup>
 ---
